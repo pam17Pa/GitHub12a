@@ -1,0 +1,14 @@
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.AssemblyReference.cache
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+D:\481\матеряли\Software-Engineering-IT-Kariera-2020\03-version-control-systems\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache

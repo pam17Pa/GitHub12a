@@ -4,6 +4,7 @@ namespace GitExercise
 {
     public static class OptionsManager
     {
+        //Coment add...
         public static string[] OptionsList = {
             "a - Add",
             "s - Subtract",
